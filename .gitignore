@@ -1,0 +1,27 @@
+# Hugo-generated files
+/public/
+/resources/
+/assets/js/bundles/
+/hugo_stats.json
+
+# Hugo module cache (if using Hugo Modules)
+/.cache/
+/go.mod
+/go.sum
+
+# Node.js dependencies (if using npm/yarn for assets)
+/node_modules/
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
