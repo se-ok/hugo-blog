@@ -1,4 +1,4 @@
-module github.com/se-ok/hugo-blog
+module github.com/se-ok/se-ok.github.io
 
 go 1.22.2
 
