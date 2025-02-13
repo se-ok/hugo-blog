@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Ad Extra</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Ad Extra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:03:57 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forgo Harness, Build Our Own</title>
+      <link>http://localhost:1313/docs/forgo-harness-build-our-own/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/forgo-harness-build-our-own/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;One of my main responsibilities at work is to evaluate the large language models we train. The evaluation shall be easy to run, change, augment and also reproduce. One of the most popular such frameworks have been &lt;a href=&#34;https://github.com/EleutherAI/lm-evaluation-harness&#34;&gt;lm-evaluation-harness&lt;/a&gt;, or in short, &lt;strong&gt;harness&lt;/strong&gt;. However, starting from February, we have moved on from harness and been using one of our own evaluation code. This post is to describe rationale in the hope of letting people in similar situation consider building their own solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test Page</title>
+      <link>http://localhost:1313/docs/test-page/</link>
+      <pubDate>Wed, 12 Feb 2025 18:03:57 +0900</pubDate>
+      <guid>http://localhost:1313/docs/test-page/</guid>
+      <description>&lt;h1 id=&#34;markdown-syntax-showcase&#34;&gt;&#xA;  Markdown Syntax Showcase&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#markdown-syntax-showcase&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to this &lt;strong&gt;Markdown Syntax Showcase&lt;/strong&gt;! This document demonstrates how various Markdown elements render on your page.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-headings&#34;&gt;&#xA;  1. Headings&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-headings&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Headings help structure your document:&lt;/p&gt;&#xA;&lt;h1 id=&#34;level-1-heading&#34;&gt;&#xA;  Level 1 Heading&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#level-1-heading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;level-2-heading&#34;&gt;&#xA;  Level 2 Heading&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#level-2-heading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;level-3-heading&#34;&gt;&#xA;  Level 3 Heading&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#level-3-heading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;level-4-heading&#34;&gt;&#xA;  Level 4 Heading&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#level-4-heading&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-horizontal-rule&#34;&gt;&#xA;  2. Horizontal Rule&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2-horizontal-rule&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;A horizontal rule separates sections:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-blockquotes&#34;&gt;&#xA;  3. Blockquotes&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#3-blockquotes&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Blockquotes are great for highlighting quotes or notes:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,3 +1,4 @@
+googleAnalytics = 'G-752XM86QTC'
 baseURL = 'https://se-ok.github.io/'
 languageCode = 'en-us'
 title = 'Ad Extra'
@@ -5,3 +6,8 @@ title = 'Ad Extra'
 [module]
 [[module.imports]]
 path = 'github.com/alex-shpak/hugo-book'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
